@@ -48,7 +48,7 @@ background-repeat:round ;
  background-size: cover;       cover all
  background-size: auto;        auto
  background-size: contain;     best  quality   
-  wedth hight ;                wish 
+ background-size: px   px  ;   wish       
 
 
 
