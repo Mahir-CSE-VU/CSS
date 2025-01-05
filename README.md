@@ -24,13 +24,13 @@ call class .class name{}     Recomanded
 
 ```
 - Padding Margin
-- ```css
-  *{
+ ```css
+*{
 
-  padding: 0px;
-  margin: 0px;
-  }
-  ```
+padding: 0px;
+margin: 0px;
+}
+```
 
 - Background color
 ```css
