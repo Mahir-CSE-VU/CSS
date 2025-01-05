@@ -40,8 +40,12 @@ background-color: ;    for background color
 background-image: url();    for backgrounf image
 
 background-repeat:repeat-x ;
-background-repeat:repeat-y ;      for  repeat 
-background-repeat:no-repeat ;
+background-repeat:repeat-y ;
+background-repeat:no-repeat ;         for  repeat 
+background-repeat:no-space ;
+background-repeat:round ;
+
+
 
 
 
