@@ -8,14 +8,14 @@
 ```
 
 - Id
-- ```css
+ ```css
   <div id=""></div>
 
   call id  #id name{}
 
 ```
 
-         - Class
+- Class
 ```css
 
 <div class=""></div>
