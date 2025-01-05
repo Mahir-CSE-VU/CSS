@@ -50,7 +50,9 @@ background-repeat:round ;
  background-size: contain;     best  quality   
  background-size: px   px  ;   wish
 
-background-position: ;( top right left  bottom center etc)     bg position
+background-position: ;( top,right,left, bottom center etc)     bg position
+
+background-attachment: ;( fixed,scroll,local,scroll local,local scroll)    
 
 
 
