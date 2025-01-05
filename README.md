@@ -45,11 +45,10 @@ background-repeat:no-repeat ;         for  repeat
 background-repeat:no-space ;
 background-repeat:round ;
 
- background-size: cover;
- background-size: auto;
-                                  for background size 
- background-size: contain;      
- background-size: wedth hight ;
+ background-size: cover;       cover all
+ background-size: auto;        auto
+ background-size: contain;     best  quality   
+  wedth hight ;                wish 
 
 
 
