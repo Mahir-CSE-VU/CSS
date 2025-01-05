@@ -19,6 +19,6 @@ call id  #id name{}
 
 <div class=""></div>
 
-call id  .class name{}     Recomanded
+call class .class name{}     Recomanded
 
 ```
