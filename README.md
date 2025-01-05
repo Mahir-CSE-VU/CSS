@@ -48,7 +48,9 @@ background-repeat:round ;
  background-size: cover;       cover all
  background-size: auto;        auto
  background-size: contain;     best  quality   
- background-size: px   px  ;   wish       
+ background-size: px   px  ;   wish
+
+background-position: ;( top right left  bottom center etc)     bg position
 
 
 
