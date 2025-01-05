@@ -24,7 +24,7 @@ call class .class name{}     Recomanded
 
 ```
 - Padding Margin
-  ```css
+- ```css
   *{
 
   padding: 0px;
