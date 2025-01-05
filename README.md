@@ -23,6 +23,14 @@ call id  #id name{}
 call class .class name{}     Recomanded
 
 ```
+- Padding Margin
+  ```css
+  *{
+
+    padding: 0px;
+    margin: 0px;
+}
+  ```
 
 - Background color
 ```css
