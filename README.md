@@ -36,6 +36,13 @@ margin: 0px;
 ```css
 
 color:;       for  font color
-background-color: ;    for background color  
+background-color: ;    for background color
+background-image: url();    for backgrounf image
+
+background-repeat:repeat-x ;
+background-repeat:repeat-y ;      for  repeat 
+background-repeat:no-repeat ;
+
+
 
 ```
