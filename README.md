@@ -52,7 +52,9 @@ background-repeat:round ;
 
 background-position: ;( top,right,left, bottom center etc)     bg position
 
-background-attachment: ;( fixed,scroll,local,scroll local,local scroll)    
+background-attachment: ;( fixed,scroll,local,scroll local,local scroll)
+
+background: ; ( color , image prapet , attacment, position)  
 
 
 
