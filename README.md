@@ -23,3 +23,11 @@ call id  #id name{}
 call class .class name{}     Recomanded
 
 ```
+
+- Background color
+```css
+
+color:;       for  font color
+background-color: ;    for background color  
+
+```
