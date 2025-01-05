@@ -15,7 +15,7 @@
 
 ```
 
-- Class
+         - Class
 ```css
 
 <div class=""></div>
@@ -27,9 +27,9 @@ call class .class name{}     Recomanded
   ```css
   *{
 
-    padding: 0px;
-    margin: 0px;
-}
+  padding: 0px;
+  margin: 0px;
+  }
   ```
 
 - Background color
