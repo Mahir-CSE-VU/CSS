@@ -32,7 +32,7 @@ margin: 0px;
 }
 ```
 
-- Background color
+- Background - color
 ```css
 
 color:;       for  font color
