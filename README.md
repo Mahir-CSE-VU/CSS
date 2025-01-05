@@ -45,7 +45,11 @@ background-repeat:no-repeat ;         for  repeat
 background-repeat:no-space ;
 background-repeat:round ;
 
-
+ background-size: cover;
+ background-size: auto;
+                                  for background size 
+ background-size: contain;      
+ background-size: wedth hight ;
 
 
 
