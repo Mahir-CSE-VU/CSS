@@ -83,12 +83,15 @@ box-sizing: ;(border-box , content-box)      1 box = 2nd box = border box , 1st 
 - Display-Fonts
 ```css
 
- display: ; (inline , block,inline-block,none)
+display: ; (inline , block,inline-block,none)
 
- visibility: hidden;
+visibility: hidden;
 
-  text-decoration: ; (underline ,  underline dotted , overline red , none etc.)
+text-decoration: ; (underline ,  underline dotted , overline red , none etc.)
 
+text-transform:  ; (capitalize,upercase,lowercse etc)
+
+line-height: ;     use for incrise or dicrise gape of two line 
 
 ```
 
