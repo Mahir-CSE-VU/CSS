@@ -78,16 +78,14 @@ margin collaps       alwayes pioroty big one
 
 box-sizing: ;(border-box , content-box)      1 box = 2nd box = border box , 1st box < 2nd box = content box  
 
+```
 
+- Display-Fonts
+```css
 
+ display: ; (inline , block,inline-block,none)
 
-
-
-
-
-
-
-
+ visibility: hidden;
 
 ```
 
