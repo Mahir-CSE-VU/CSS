@@ -50,14 +50,31 @@ background: ; ( color , image prapet , attacment, position)
 
 ```
 
-- Padding Margin (Box Model)
+- Padding Margin Border (Box Model)
 
 ```css
 
 *{
 padding: 0px;
-margin: 0px;
+                       for remove broser margin and padding
+margin: 0px;   
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 
@@ -70,7 +87,7 @@ margin: 0px;
 
 
 
-```
+
 
 
 
