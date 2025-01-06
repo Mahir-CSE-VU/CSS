@@ -60,7 +60,13 @@ padding: 0px;
 margin: 0px;   
 }
 
+padding: 20px 3opx 40px 30px; ( top right bottom left )
+padding: 20px 3opx ; ( top bottom , right left )
 
+margin: 20px 3opx 40px 30px; ( top right bottom left )
+margin: 20px 3opx ; ( top bottom , left right)
+
+border: 20px 3opx 40px 30px; ( top right bottom left )
 
 
 
