@@ -62,9 +62,11 @@ margin: 0px;
 
 padding: 20px 3opx 40px 30px; ( top right bottom left )
 padding: 20px 3opx ; ( top bottom , right left )
+padding: 20px; ( All Side )
 
 margin: 20px 3opx 40px 30px; ( top right bottom left )
 margin: 20px 3opx ; ( top bottom , left right)
+margin: 20px  ; ( All Side )
 
 border: 20px 3opx 40px 30px; ( top right bottom left )
 
