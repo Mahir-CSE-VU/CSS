@@ -71,7 +71,12 @@ margin: 20px  ; ( All Side )
 border: 2px solid red;  ( Border width , Border style , Border color)
 border-style:  (solid ,dotted,dashed,double,none etc.)
 
+border-radius: ;  for carve
 
+margin collaps       alwayes pioroty big one
+
+
+box-sizing: ;(border-box , content-box)      1 box = 2nd box = border box , 1st box < 2nd box = content box  
 
 
 
