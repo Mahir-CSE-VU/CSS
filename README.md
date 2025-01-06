@@ -91,7 +91,13 @@ text-decoration: ; (underline ,  underline dotted , overline red , none etc.)
 
 text-transform:  ; (capitalize,upercase,lowercse etc)
 
-line-height: ;     use for incrise or dicrise gape of two line 
+line-height: ;     use for incrise or dicrise gape of two line
+
+
+font-size: ;
+font-family: monospace;
+
+font add  = google fonts  than copy font link and pest it head than copy font-family pest it css
 
 ```
 
