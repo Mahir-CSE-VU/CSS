@@ -23,14 +23,6 @@
 call class .class name{}     Recomanded
 
 ```
-- Padding Margin
- ```css
-*{
-
-padding: 0px;
-margin: 0px;
-}
-```
 
 - Background - color
 ```css
@@ -56,6 +48,55 @@ background-attachment: ;( fixed,scroll,local,scroll local,local scroll)
 
 background: ; ( color , image prapet , attacment, position)  
 
+```
+
+- Padding Margin (Box Model)
+
+```css
+
+*{
+padding: 0px;
+margin: 0px;
+}
+```
+
+
+
+
+
+
+
+
+
 
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
