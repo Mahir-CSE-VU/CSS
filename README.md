@@ -98,6 +98,8 @@ font-size: ;
 font-family: monospace;
 
 font add  = google fonts  than copy font link and pest it head than copy font-family pest it css
+font-style: ;  (itlic , oblique 40deg)
+font-weight: ;  mota chikon   
 
 ```
 
