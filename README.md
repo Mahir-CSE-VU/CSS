@@ -68,7 +68,8 @@ margin: 20px 3opx 40px 30px; ( top right bottom left )
 margin: 20px 3opx ; ( top bottom , left right)
 margin: 20px  ; ( All Side )
 
-border: 20px 3opx 40px 30px; ( top right bottom left )
+border: 2px solid red;  ( Border width , Border style , Border color)
+border-style:  (solid ,dotted,dashed,double,none etc.)
 
 
 
