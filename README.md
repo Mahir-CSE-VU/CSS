@@ -103,6 +103,19 @@ font-weight: ;  mota chikon
 
 ```
 
+- Size Position List
+```css
+
+font-size:2(em)    em= father font-size* given em size
+font-size:2(rm)    rm= html font size* given rm size
+
+height: 50vh     it's cover device 50 % hight
+wedth: 50vw      it's cover device 50 % wedth
+ 
+
+
+
+```
 
 
 
