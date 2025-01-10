@@ -125,7 +125,7 @@ static: ; default posision
 relative: ; top,lft,right,bottom can use
 absolute: ;     follow non-static parent command 
 fixed: ;   position fixed
-sticy:
+sticy:    fixed nav ber(any box)
 z-index: ;
 
 ```
