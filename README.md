@@ -133,7 +133,7 @@ z-index: ;
 - List
 ```css
 
-list-style: circle,squre,etc.
+list-style: circle,squre,etc,url(),inside,outside.
 
 
 ```
