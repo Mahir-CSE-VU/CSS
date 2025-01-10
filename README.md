@@ -138,6 +138,33 @@ list-style: circle,squre,etc,url(),inside,outside.
 
 ```
 
+- Flexbox
+```css
+
+float: ; (left right)
+clear: ;(left right)
+
+display:flex; insalization
+flex-direction: ; (column,row,row-revers,column-revers)
+flex-wrap: ; (wrap,wrap-revers)
+justify-content: ; (baseline,center,left,right etc.)
+align-items: ; (baseline,center.start,end,flex-end, etc.)
+align-content: ;  same as align-items it's remove space.
+align-self: ;    slf position control    
+order: ;  box position number.
+flex-grow :  incrise wedth.
+
+ 
+
+
+
+
+
+
+
+
+```
+
 
 
 
