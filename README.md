@@ -117,10 +117,26 @@ max-height:
 min-wedth:
 max-wedth:
 
+```
+- Position
+```css
+
+static: ; default posision
+relative: ; top,lft,right,bottom can use
+absolute: ;     follow non-static parent command 
+fixed: ;   position fixed
+sticy:
+z-index: ;
 
 ```
 
+- List
+```css
 
+list-style: circle,squre,etc.
+
+
+```
 
 
 
