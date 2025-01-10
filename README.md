@@ -112,7 +112,10 @@ font-size:2(rm)    rm= html font size* given rm size
 height: 50vh     it's cover device 50 % hight
 wedth: 50vw      it's cover device 50 % wedth
  
-
+min-height:
+max-height:
+min-wedth:
+max-wedth:
 
 
 ```
