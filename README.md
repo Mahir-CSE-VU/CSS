@@ -154,15 +154,20 @@ align-self: ;    slf position control
 order: ;  box position number.
 flex-grow :  incrise wedth.
 
- 
+```
+- CSS Grid
+```css
 
+display:grid;
+grid-template-columns: ;
+grid-template-rows: ;
+grid-row-gap: ;
+grid-column-gap: ;
+grid-gap: ;
+grid-row: 1/3;
+grid-column: 1/3 ;
 
-
-
-
-
-
-
+ @media screen { }
 ```
 
 
