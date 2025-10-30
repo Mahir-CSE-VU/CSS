@@ -95,6 +95,8 @@ line-height: ;     use for incrise or dicrise gape of two line
 
 text-indent: 50px;  firt word move forword
 
+letter-spacing: 10px; space letter
+
 font-size: ;
 font-family: monospace;
 
