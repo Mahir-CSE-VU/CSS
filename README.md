@@ -97,6 +97,8 @@ text-indent: 50px;  firt word move forword
 
 letter-spacing: 10px; space letter
 
+font-variant: small-caps; 
+
 font-size: ;
 font-family: monospace;
 
