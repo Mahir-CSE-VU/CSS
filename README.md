@@ -71,7 +71,7 @@ margin: 20px  ; ( All Side )
 border: 2px solid red;  ( Border width , Border style , Border color)
 border-style:  (solid ,dotted,dashed,double,none etc.)
 
-border-radius: ;  for carve
+border-radius: ;  for curve
 
 margin collaps       alwayes pioroty big one
 
@@ -93,6 +93,7 @@ text-transform:  ; (capitalize,upercase,lowercse etc)
 
 line-height: ;     use for incrise or dicrise gape of two line
 
+text-indent: 50px;  firt word move forword
 
 font-size: ;
 font-family: monospace;
